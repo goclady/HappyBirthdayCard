@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.gertrude.happybirthdaycard"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.gertrude.happybirthdaycard"
